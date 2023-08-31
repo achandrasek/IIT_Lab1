@@ -1,4 +1,5 @@
-# IIT Web-Design Repo
-Ayan Chandrasekaran IIT Web-Design
+# IIT Web-Design Repository 
+Ayan Chandrasekaran
+ITMD 361: Fundamentals of Web Development
 
-Site: https://achandrasek.github.io
+Hosted Site: https://achandrasek.github.io
